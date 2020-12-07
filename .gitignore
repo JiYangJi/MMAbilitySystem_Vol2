@@ -1,0 +1,58 @@
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+[Oo]bj/
+UnityGenerated/
+Library/
+[bB]uild/
+[bB]uilds/
+NotVersioned/
+AssetBundles/
+*iOSBuild/
+.idea/
+Assets/Plugins/Editor/ScriptInspector3*
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.apk
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.pdb
+*.pdb.meta
+*.mdb
+*.mdb.meta
+*sysinfo.txt
+*build_info.txt
+*.[Dd]ot[Ss]ettings
+_ReSharper.*/
+*.vs*
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+Assets/Plugins/Sirenix/Assemblies/Editor/GeneratedOdinEditors.dll
+Recordings/*
+Assets/StreamingAssets/build_info
+Assets/samples/AdvancedTutorial/art/models/sgtBolt.meta
+Assets/samples.meta
+Assets/samples/AdvancedTutorial.meta
+Assets/samples/AdvancedTutorial/art.meta
+Assets/samples/AdvancedTutorial/art/models.meta
