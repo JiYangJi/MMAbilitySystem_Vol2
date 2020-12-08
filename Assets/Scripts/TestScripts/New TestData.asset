@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96fb2bdd60c2eab49a1e451200411318, type: 3}
   m_Name: New TestData
   m_EditorClassIdentifier: 
-  _tempFloat: 30
-  _tempVector3: {x: 15, y: 10, z: 0}
+  _tempFloat: 404
+  _tempVector3: {x: -29.7, y: 507.8, z: 23.51}
+  _tempComplexClass:
+    _fVar1: -164.66
+    _fVar2: -73.2
+    _fVar3: -27
